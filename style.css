@@ -1,0 +1,17 @@
+.bg-dark-transparent{
+    background-color: rgba(0, 0, 0,0.5);
+}
+#tel{
+    color: whitesmoke;
+}
+
+body{
+    background-color:#501D1C;
+}
+#badgenav{
+    background-color: #501716;
+}
+
+#bodyc{
+    background-color:#ADACAA ;
+}
